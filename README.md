@@ -6,6 +6,8 @@
 
 - 🔭 I’m currently working on [MaxxedSUSE](https://github.com/Jonatas-Goncalves/MaxxedSUSE)
 
+- 📝 I regularly work on [https://build.opensuse.org/project/show/home:MaxxedSUSE](https://build.opensuse.org/project/show/home:MaxxedSUSE)
+
 - 🌱 I’m currently learning **HTML5, CSS, Angular, Ionic**
 
 - 👯 I’m looking to collaborate on [openSUSE Build Service](https://build.opensuse.org/)
@@ -13,8 +15,6 @@
 - 🤝 I’m looking for help with [DockerHub](https://hub.docker.com/u/jonatasgoncalves)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jonatas-Goncalves](https://github.com/Jonatas-Goncalves)
-
-- 📝 I regularly work on [https://build.opensuse.org/project/show/home:MaxxedSUSE](https://build.opensuse.org/project/show/home:MaxxedSUSE)
 
 - 📫 How to reach me **jonatasgoncalves@protonmail.com**
 
