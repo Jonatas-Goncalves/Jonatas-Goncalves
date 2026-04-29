@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jonatas Gonçalves</h1>
 <h3 align="center">Systems Administrator | Linux Package Maintainer | Open Source Contributor</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jonatas-goncalves&label=Profile%20views&color=0e75b6&style=flat" alt="jonatas-goncalves" />
-</p>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Jonatas-Goncalves&label=Profile%20Visits&color=blue&style=for-the-badge" />
+<br>
+</div>
+<br>
 
 <img align="right" alt="Coding" width="350" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e479un17lhaq7ex6ya967pw10evcixoxbm9gkfyyaef&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
